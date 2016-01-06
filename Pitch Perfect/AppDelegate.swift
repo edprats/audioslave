@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Pitch Perfect
+//  AudioSlave
 //
 //  Created by Eduardo Prats on 12/28/15.
 //  Copyright © 2015 edprats. All rights reserved.
